@@ -1,6 +1,6 @@
 version: "3"
-containers:
-- name: shell
-  image: ubuntu
+virutalmachines:
+- name: workstation
+  image: instruqt-hashicorp/tf-agents-workstation-20240214-041255
   shell: /bin/bash
-  memory: 256
+  machine_type: e2-medium

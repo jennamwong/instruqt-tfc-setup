@@ -1,4 +1,5 @@
 slug: tfc-org-creation-template
+id: oo6wdv7hiyar
 title: TFC Org Creation Template
 teaser: A short description of the track.
 description: |-
@@ -10,11 +11,13 @@ tags: []
 owner: hashicorp-field-ops
 developers:
 - jenna.wong@hashicorp.com
+idle_timeout: 3000
+timelimit: 12000
 lab_config:
   overlay: false
   width: 33
   position: right
   sidebar_enabled: true
   feedback_recap_enabled: true
-  feedback_tab_enabled: false
   loadingMessages: true
+checksum: "2029070963247914764"
