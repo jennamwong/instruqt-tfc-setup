@@ -86,7 +86,7 @@ Step 2: Terraform Cloud Token
 Step 3: Login to the Terraform Cloud CLI
 ===
 
-- Move to the [button label="Terminal"](tab-1) tab and store your Terraform Cloud Token locally with the following command:
+- Move to the [button label="Terminal"](tab-0) tab and store your Terraform Cloud Token locally with the following command:
 
 ```bash
 terraform login
