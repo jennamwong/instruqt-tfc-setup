@@ -8,6 +8,11 @@ tabs:
   type: code
   hostname: workstation
   path: /
+notes: 
+- type: text 
+  contents: |
+    Here is an example of how to add a diagram/screenshot into the notes loading page: 
+    ![Star](/assets/star.png)
 difficulty: basic
 ---
 <style>
