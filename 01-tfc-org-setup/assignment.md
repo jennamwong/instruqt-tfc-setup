@@ -3,16 +3,16 @@ slug: tfc-org-setup
 id: yppsn1xznjc5
 type: challenge
 title: Terraform Cloud Setup
+notes:
+- type: text
+  contents: |
+    Here is an example of how to add a diagram/screenshot into the notes loading page:
+    ![Star](../assets/star.png)
 tabs:
 - title: Terminal
   type: code
   hostname: workstation
   path: /
-notes: 
-- type: text 
-  contents: |
-    Here is an example of how to add a diagram/screenshot into the notes loading page: 
-    ![Star](/assets/star.png)
 difficulty: basic
 ---
 <style>
